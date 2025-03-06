@@ -1,0 +1,14 @@
+project:
+  name: "My Express App"
+  description: "A Node.js application with Express and TypeScript using functional components."
+  summary: |
+    ## Summary
+
+    This complete example demonstrates best practices for a senior-level Node.js project with Express and TypeScript using functional components throughout:
+
+    - **Modular Architecture:** Each responsibility (routes, controllers, services, middlewares, configuration, utilities) is placed in its own folder.
+    - **Functional Style:** All controllers and service logic are implemented as functions, promoting simplicity and easier testing.
+    - **Error Handling & Logging:** Centralized middleware for error handling and request logging.
+    - **Type Safety:** Leveraging TypeScript for improved code safety and maintainability.
+
+    This starter project can be extended further with database integration, additional routes, and testing frameworks as your application grows.
