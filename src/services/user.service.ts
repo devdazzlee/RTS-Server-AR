@@ -35,7 +35,7 @@ const users: IUser[] = [
     { id: 28, name: "Imran Khan", email: "imran.khan@example.com" },
     { id: 29, name: "Asma Khalid", email: "asma.khalid@example.com" },
     { id: 30, name: "Hammad Rauf", email: "hammad.rauf@example.com" }
-];
+];;
 
 export const getAllUsers = (): IUser[] => {
     return users;
